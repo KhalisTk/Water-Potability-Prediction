@@ -29,7 +29,4 @@ Future Implementation :
 To address the class imbalace
 To evaluate the model using Precision/Recall/F1 instead of just using accuracy
 
-Tech/Library Used :  Python, Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow/Keras
-
-
-rFlow/Keras
+Tech/Library Used :  Python, Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow/Keras, joblit
